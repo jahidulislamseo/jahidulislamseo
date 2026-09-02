@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,36,48&height=230&section=header&text=Jahidul%20Islam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SEO%20Executive%20%7C%20Full-Stack%20Architect%20%7C%20CMS%20Specialist&descFontSize=18&descAlignY=58&descAlign=50" width="100%" />
 
   <!-- Dynamic Typing SVG Headline -->
-  <a href="https://jahidulislam.me">
+  <a href="https://jahidulislam.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=50&lines=SEO+Executive+%26+Organic+Growth+Strategist+%F0%9F%9A%80;Full-Stack+Web+%26+CMS+Architect+%F0%9F%92%BB;Programmatic+SEO+%26+Python+Automation+%E2%9A%A1;Core+Web+Vitals+%26+Speed+Optimization+Master+%E2%9C%A8;Building+Scalable%2C+High-Performance+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 
@@ -12,7 +12,7 @@
 
   <!-- Interactive Quick Links & Social Badges -->
   <p align="center">
-    <a href="https://jahidulislam.me" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://jahidulislam.dev" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/jahidul-islam-seo-expert/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:mdjahidulislamf1@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://x.com/jahidulislamf1" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
