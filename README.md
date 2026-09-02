@@ -83,7 +83,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Performance" width="45" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Performance" width="45" />
       <h3>⚡ DevOps & Speed</h3>
       <p align="left">
         • Nginx Reverse Proxy Caching<br/>
